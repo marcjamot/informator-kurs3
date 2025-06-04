@@ -8,8 +8,6 @@ https://informator.se/data-engineering-utbildningsprogram/
 
 # Workshops
 
-Enter the folders and run with `python main.py`
-
 ## workshop1
 
 Building an AI for a simple Tic-Tac-Toe game.
