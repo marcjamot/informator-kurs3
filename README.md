@@ -18,12 +18,4 @@ Exploring the Iris dataset.
 
 ## workshop3
 
-Trying out Classification on the Iris dataset using Linear Regression.
-
-## workshop4
-
-Trying out Classification on the Iris dataset using Decision Trees and Random Forests.
-
-## workshop5
-
-Trying out Classification on the Iris dataset using Artificial Neural Networks (ANN).
+Trying out various models on the Iris dataset.
